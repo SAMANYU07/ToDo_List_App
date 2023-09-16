@@ -6,6 +6,7 @@ This is a simple todo list app written in C++.
 1. Clone the repo
 2. Go to the app directory
 3. Run app by running command ./todo
+(Executable and css file should be in the same directory)
 
 # Demo
 
